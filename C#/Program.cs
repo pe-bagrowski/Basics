@@ -1,8 +1,8 @@
 ﻿/*The point is to check if the user(string) is:
-1.The username is between 4 and 25 characters. ++ check
-2.It must start with a letter. ++ check
+1.The username is between 4 and 25 characters. 
+2.It must start with a letter. 
 3. It can only contain letters, numbers, and the underscore character.
-4. It cannot end with an underscore character. ++ check */ 
+4. It cannot end with an underscore character.  */ 
 
 using System;
 using System.Linq;
